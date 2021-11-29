@@ -25,4 +25,4 @@ The distribution of life expectancy among the six countries was skewed to the le
 ---
 - What caused the faster GDP growth for USA and China over the 15 period?
 - What caused the faster life expectancy for Zimbabwe over the 15 period?
-- What in Zimbabwe that casused the Zimbabwe's life expectancy to decrease in 2004?
+- What in Zimbabwe that caused the Zimbabwe's life expectancy to decrease in 2004?
